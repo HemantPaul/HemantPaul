@@ -25,9 +25,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kappa-flame-21.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantpaul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-paul-hp30/)
 [![Email](https://img.shields.io/badge/Email-hemantpaul3011@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantpaul)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantPaul)
 
 </div>
 
@@ -126,40 +126,13 @@ DevCollab is architected around an event-driven Node.js backend with Socket.IO m
 
 </details>
 
-<details>
-<summary><b>◈ Quarter Allotment Portal — Enterprise System, Coal India Limited (BCCL)</b></summary>
-
-<br/>
-
-> Enterprise-grade internal portal serving 25,000+ Coal India employees across multiple user roles — built during production internship at one of India's largest public sector undertakings.
-
-<br/>
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | HTML5 · CSS3 · Tailwind CSS · Backend Modules · Relational Database (MySQL) |
-| **Scale** | 25,000+ active employees across multiple user roles and departments |
-| **Performance** | ~40% reduction in grievance resolution time through workflow optimisation |
-| **Security** | Role-based access control, data integrity enforcement at the database layer |
-| **Impact** | Production deployment at Coal India Limited (BCCL); enterprise-grade scope |
-| **Repository** | Internal Enterprise System — NDA Protected |
-
-<br/>
-
-This system was developed under enterprise engineering conditions at Coal India Limited (BCCL), Dhanbad. I designed and implemented the complete frontend from scratch using HTML, CSS, and Tailwind CSS, improving usability and accessibility across all employee-facing user roles. On the backend, I developed core functional modules and managed relational database systems, ensuring efficient data storage, retrieval, and integrity at scale. A significant workstream involved optimising the Grievance Management System — streamlining resolution workflows and refactoring database queries to achieve a measurable ~40% reduction in issue resolution time.
-
-<br/>
-
-</details>
-
 ---
 
 ## ◈ Experience
 
 <div align="left">
 
-### Software Development Trainee
-**Coal India Limited — BCCL** &nbsp;|&nbsp; Dhanbad, Jharkhand &nbsp;|&nbsp; `June 2025 – July 2025`
+### Intern @ **Coal India Limited — BCCL** &nbsp;|&nbsp; Jharkhand &nbsp;
 
 Contributed to the engineering and deployment of internal enterprise software at one of India's largest public sector companies, operating within a professional team of senior engineers under real production constraints.
 
@@ -225,19 +198,6 @@ Contributed to the engineering and deployment of internal enterprise software at
 
 ---
 
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-hemantpaul-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hemantpaul)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hemantpaul-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/hemantpaul)
-[![HackerRank](https://img.shields.io/badge/HackerRank-hemantpaul-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/hemantpaul)
-[![CodeChef](https://img.shields.io/badge/CodeChef-hemantpaul-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/hemantpaul)
-
-</div>
-
----
-
 ## ◈ Contribution Activity
 
 <div align="center">
@@ -286,9 +246,9 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-hemantpaul3011@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Paul-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantpaul)
-[![GitHub](https://img.shields.io/badge/GitHub-hemantpaul-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantpaul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hemantpaul.dev-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://hemantpaul.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Paul-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-paul-hp30)
+[![GitHub](https://img.shields.io/badge/GitHub-hemantpaul-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantPaul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hemantpaul.dev-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kappa-flame-21.vercel.app/)
 
 </div>
 
