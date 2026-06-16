@@ -198,16 +198,6 @@ Contributed to the engineering and deployment of internal enterprise software at
 
 ---
 
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Hemant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemantpaul&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&area_color=4C1D95&hide_border=false&border_color=7C3AED&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## ◈ Current Focus
 
 ```yaml
