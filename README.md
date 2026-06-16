@@ -45,8 +45,6 @@
 
 ## ◈ About
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=hemantpaul&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0D0D1A&title_color=8B5CF6&icon_color=A78BFA&text_color=C4B5FD&hide_border=false&rank_icon=github" />
-
 I am a **Computer Science & Engineering student at KIIT University** with hands-on production engineering experience building enterprise-grade systems. My work spans backend architecture, relational database optimisation, and full-stack web development — including real-world deployment at **Coal India Limited (BCCL)**, where I contributed to a Quarter Allotment Portal serving **25,000+ employees**.
 
 I bring a product engineering mindset to every project: thinking in systems, writing for scale, and shipping with integrity. I am currently deepening my expertise in **data engineering**, advanced SQL, and distributed backend architectures — while continuing to build full-stack applications using the modern JavaScript ecosystem.
@@ -89,12 +87,12 @@ I use AI tooling (Claude, GitHub Copilot) not as a crutch, but as a force multip
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| Machine Learning Fundamentals | ◈◈◈◇◇ Introductory | Supervised / Unsupervised Learning, Model Evaluation |
-| Data Mining & Warehousing | ◈◈◈◈◇ Intermediate | ETL Concepts, Data Modelling, Warehousing Patterns |
-| AI-Augmented Engineering | ◈◈◈◈◈ Applied | Claude (Anthropic), GitHub Copilot, Prompt Engineering |
-| SQL & Query Optimisation | ◈◈◈◈◈ Strong | Complex Joins, Indexing, Execution Plans, DBMS Internals |
-| Data Engineering Concepts | ◈◈◈◇◇ Developing | Pipeline Design, Batch Processing, Storage Architecture |
-| SAP Integration Suite | ◈◈◈◇◇ Foundational | ABAP on HANA, Enterprise Integration Patterns |
+| Machine Learning Fundamentals | Introductory | Supervised / Unsupervised Learning, Model Evaluation |
+| Data Mining & Warehousing | Intermediate | ETL Concepts, Data Modelling, Warehousing Patterns |
+| AI-Augmented Engineering | Applied | Claude (Anthropic), GitHub Copilot, Prompt Engineering |
+| SQL & Query Optimisation | Strong | Complex Joins, Indexing, Execution Plans, DBMS Internals |
+| Data Engineering Concepts | Developing | Pipeline Design, Batch Processing, Storage Architecture |
+| SAP Integration Suite | Foundational | ABAP on HANA, Enterprise Integration Patterns |
 
 </div>
 
@@ -240,55 +238,11 @@ Contributed to the engineering and deployment of internal enterprise software at
 
 ---
 
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemantpaul&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0D0D1A&title_color=8B5CF6&icon_color=A78BFA&text_color=C4B5FD&hide_border=false&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpaul&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD&hide_border=false&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantpaul&theme=tokyonight&border=7C3AED&background=0D0D1A&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=6D28D9" width="60%" />
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hemantpaul&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=8B5CF6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## ◈ Contribution Activity
 
 <div align="center">
 
 [![Hemant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemantpaul&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&area_color=4C1D95&hide_border=false&border_color=7C3AED&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ◈ Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemantpaul/hemantpaul/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemantpaul/hemantpaul/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hemantpaul/hemantpaul/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
