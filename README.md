@@ -26,7 +26,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kappa-flame-21.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-paul-hp30/)
-[![Email](https://img.shields.io/badge/Email-hemantpaul3011@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hemant@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantPaul)
 
 </div>
